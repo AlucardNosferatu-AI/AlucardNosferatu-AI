@@ -40,18 +40,5 @@ Sinta-se à vontade para "admirar" essas peças. Se você for utilizá-las para 
 
 ---
 
-/Alucard_Horror_Vault
-|-- /Manifestacoes_Poder
-|   |-- transformacao_nivel_zero.gif
-|   |-- olhos_brilhantes.mp4
-|   -- (outras animacoes de poder) |-- /Momentos_Sombrios |   |-- sorriso_diabolico.gif |   |-- olhar_perfurante.mp4 |   -- (outras animacoes pensativas)
-|-- /Caos_Destruicao
-|   |-- massacre_ghouls.gif
-|   |-- absorcao_almas.mp4
-|   -- (outras animacoes de combate) |-- /Iconografia_Hellsing |   |-- jackal_casull.gif |   |-- chapeu_sombra.mp4 |   -- (outras animacoes de iconografia)
-|-- /Interacoes_Macabras
-|   |-- alucard_anderson_confronto.gif
-|   |-- alucard_seras_observacao.mp4
-|   -- (outras animacoes de interacao) |-- README.md (Este arquivo) -- LICENSA_DA_CONDENACAO.md (Um arquivo de licença com um toque sombrio - opcional)
 
 
