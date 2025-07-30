@@ -5,8 +5,8 @@
 Bem-vindo ao meu santuário de horrores. Não toque em nada, a menos que queira sentir o sabor do meu poder. 🩸
 
 ---
+![1000133015](https://github.com/user-attachments/assets/3c66781c-7977-435b-bdea-f66de589f4ba)
 
-148700884f2c735178da71d719c7d65b.gif
 
 ### **Sobre Esta Coleção (Palavras do Próprio)**
 
