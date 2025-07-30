@@ -6,7 +6,7 @@ Bem-vindo ao meu santuário de horrores. Não toque em nada, a menos que queira 
 
 ---
 
-
+148700884f2c735178da71d719c7d65b.gif
 
 ### **Sobre Esta Coleção (Palavras do Próprio)**
 
