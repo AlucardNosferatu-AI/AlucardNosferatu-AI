@@ -6,7 +6,7 @@ Bem-vindo ao meu santuário de horrores. Não toque em nada, a menos que queira 
 
 ---
 
-https://pin.it/6SdLOAM6R
+
 
 ### **Sobre Esta Coleção (Palavras do Próprio)**
 
