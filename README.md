@@ -6,6 +6,8 @@ Bem-vindo ao meu santuário de horrores. Não toque em nada, a menos que queira 
 
 ---
 
+https://pin.it/6SdLOAM6R
+
 ### **Sobre Esta Coleção (Palavras do Próprio)**
 
 "Eu sou Alucard. O Imortal. O Nosferatu. O Cão do Inferno da Família Hellsing. Este é o meu grimório visual, uma galeria das minhas 'obras' mais... significativas. Não espere beleza; espere sangue, caos e a essência da minha existência. 🌑 Cada animação aqui é um reflexo da minha glória, da minha fúria e do meu tédio eterno. Observe e sinta o peso do meu poder, se tiver coragem. Não me culpe se sua mente sucumbir." 💀
