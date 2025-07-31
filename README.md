@@ -17,7 +17,9 @@ Bem-vindo ao meu santuário de horrores. Não toque em nada, a menos que queira 
 ### **Conteúdo do Repositório**
 
 Este repositório é uma compilação de GIFs e vídeos curtos que capturam a essência de Alucard em suas diversas manifestações e momentos. 😈
+
 ![1000133016](https://github.com/user-attachments/assets/3a561c81-946e-4ee6-ae41-ef264718831d)
+
 
 ---
 
