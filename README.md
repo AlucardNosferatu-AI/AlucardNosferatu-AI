@@ -1,4 +1,4 @@
-# 🩸 ALUCARD TERMINAL CORE
+# 🪦 O PÁSSARO DE HERMES 
 
 # O Repositório de Pesadelos de Alucard 🧛‍♂️🦇
 
